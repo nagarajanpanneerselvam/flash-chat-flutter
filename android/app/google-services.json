@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "499978875452",
+    "project_id": "sanahere-password-manager",
+    "storage_bucket": "sanahere-password-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499978875452:android:c0a181d3e8dd2a7aadc939",
+        "android_client_info": {
+          "package_name": "co.appbrewery.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499978875452-k0lnee6ngurkv63bqe6gci6injkr115e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZu_AIEdXkL6iAOrjtgMlHSI0g1aFGXVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499978875452-k0lnee6ngurkv63bqe6gci6injkr115e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "499978875452-7ideleo15frrl6vsrfn6ue8u3igco5od.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sanahere.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
